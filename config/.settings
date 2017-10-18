@@ -1,0 +1,17 @@
+{
+    "projectName": "AngularDeployTest",
+    "username": "gavrish@codeswat.com",
+    "id": "c81a07f0-b3d3-11e7-841f-e16cfa114c9a",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://gavrishaxiom-dev-ed.my.salesforce.com",
+    "workspace": "C:\\Users\\Anjey\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}

@@ -1,0 +1,370 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"portal",
+				"portal_logo"
+			],
+			[
+				"co",
+				"connectApps"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"Cons",
+				"console"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"app",
+				"appItem"
+			],
+			[
+				"Status",
+				"Status__c"
+			],
+			[
+				"En",
+				"Entity__c"
+			],
+			[
+				"si",
+				"PUBLIC size() \tInteger"
+			],
+			[
+				"Con",
+				"Contact"
+			],
+			[
+				"RQUESTS_NAME_FOR_RE",
+				"RQUESTS_NAME_FOR_REQUEST_MANAGER"
+			],
+			[
+				"curr",
+				"currentUserId"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"ou",
+				"outputText"
+			],
+			[
+				"new",
+				"newElement"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 440.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Anjey/Documents/AngularDeployTest",
+		"/C/Users/Anjey/Documents/AngularDeployTest/src"
+	],
+	"file_history":
+	[
+		"/C/Users/Anjey/Documents/AngularDeployTest/src/app/components/home/home.component.html",
+		"/C/Users/Anjey/Documents/AngularDeployTest/src/app/components/home/home.component.ts",
+		"/C/Users/Anjey/Documents/WlisaProject/src/classes/ConnectedAppPluginExample.cls",
+		"/C/Users/Anjey/Documents/RequestPortalForDev4_v2/src/aura/RequestTabVocationCmp/RequestTabVocationCmpHelper.js",
+		"/C/Users/Anjey/Documents/RequestPortalForDev4_v2/src/aura/RequestTabSickOutCmp/RequestTabSickOutCmpHelper.js",
+		"/C/Users/Anjey/Documents/RequestPortalForDev4_v2/src/aura/RequestTabVocationCmp/RequestTabVocationCmpRenderer.js",
+		"/C/Users/Anjey/Documents/RequestPortalForDev4_v2/src/aura/RequestTabVocationCmp/RequestTabVocationCmpController.js",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev4/src/aura/RequestTabSickOutCmp/RequestTabSickOutCmpController.js",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/customLookup/customLookup.cmp",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/customLookupForReplacement/customLookupForReplacement.cmp",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/RequestTabVocationCmp/RequestTabVocationCmpHelper.js",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/classes/PHG_ReportVacationController.cls-meta.xml",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/triggers/Request.trigger",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/selectedUserForHelpdeskEvt/selectedUserForHelpdeskEvt.evt",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/GetActionFromLookupEvt/GetActionFromLookupEvt.evt",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/customLookupResultForReplacement/customLookupResultForReplacement.cmp",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/customLookupResultForReplacement/customLookupResultForReplacementController.js",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/customLookupResult/customLookupResult.cmp",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/customLookupResult/customLookupResultController.js",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/ClearCustomLookupAfterCancelEvt/ClearCustomLookupAfterCancelEvt.evt",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/RequestTabVocationCmp/RequestTabVocationCmpController.js",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/RequestTabMainCmp/RequestTabMainCmp.css",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/RequestTabVocationCmp/RequestTabVocationCmp.cmp",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/classes/LookupSObjectController.cls",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/RequestTabSickOutCmp/RequestTabSickOutCmp.cmp",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/RequestTabSickOutCmp/RequestTabSickOutCmpController.js",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/RequestTabMainCmp/RequestTabMainCmpHelper.js",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/RequestTabMainCmp/RequestTabMainCmpController.js",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/RequestTabMainCmp/RequestTabMainCmp.cmp",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/classes/PHG_ReportVacationController.cls",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/RequestTabSickOutCmp/RequestTabSickOutCmpHelper.js",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/getUserFromCustomLookupEvt/getUserFromCustomLookupEvt.evt",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/RequestTabHelpdeskCmp/RequestTabHelpdeskCmpController.js",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/RequestTabHelpdeskCmp/RequestTabHelpdeskCmpHelper.js",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/selectedUserEvent/selectedUserEvent.evt",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/RequestTabHelpdeskCmp/RequestTabHelpdeskCmp.cmp",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/customLookup/customLookupHelper.js",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/customLookupForReplacement/customLookupForReplacementHelper.js",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/customLookupForReplacement/customLookupForReplacementController.js",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/customLookup/customLookupController.js",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/RequestTabHelpdeskCmp/RequestTabHelpdeskCmp.css",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/getApprovalListEvt/getApprovalListEvt.evt",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/ChoiceRequestFromSelectEvt/ChoiceRequestFromSelectEvt.evt",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/RequestTabManageCmp/RequestTabManageCmp.cmp",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/RequestTabMainCmp/RequestTabMainCmpRenderer.js",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/svgIcon/svgIconRenderer.js",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/svgIcon/svgIconHelper.js",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/svgIcon/svgIconController.js",
+		"/C/Users/Anjey/Documents/EmployeePortalForDev2/src/aura/svgIcon/svgIcon.cmp"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"//",
+			"truncate",
+			"RequestEmployeePortalController",
+			"fire",
+			"divMessageErrorSick",
+			"reques",
+			"dateStartVocation",
+			"RQUESTS_NAME_FOR_HELPDESK",
+			"c:",
+			"getProjectsForUser",
+			"Except",
+			"cat",
+			"console",
+			"sendEmail",
+			"submit",
+			"System.deb",
+			"}\n",
+			"emailSend",
+			"fire",
+			">",
+			"GetUserCustomLookupEvt",
+			"userIds",
+			"taskUsers",
+			"User",
+			"getCurrentUserForHelpdesk",
+			"c.",
+			"getProjectA",
+			"action",
+			"getHelpdeskType",
+			"getRequestTypeForHelpdesk",
+			"getType",
+			"for",
+			"lookup",
+			"console",
+			"onMultiSelectChange",
+			"inputSelectUser",
+			"tttttt",
+			"projects",
+			"GetChoiceRequest",
+			"TestTest",
+			"detailsDefault",
+			"selectedAccountEvent",
+			"mai",
+			"vacation",
+			"Count_Real_Approval__c",
+			"rq.Count_Real_Approval__c",
+			"submitApproveSickList",
+			"getRequestType",
+			"daysBetweenExcludingWeekends",
+			"DaysSpent",
+			"Employee_Additional_Info",
+			"Employee_Additional_Info__r",
+			"Vaca",
+			"date",
+			"get",
+			"outputId",
+			"param",
+			"detailsDefault",
+			"detail",
+			"computeContactsDates"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 94.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "AngularDeployTest.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 403.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

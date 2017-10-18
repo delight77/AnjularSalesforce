@@ -1,0 +1,601 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"new",
+				"newBioPsc"
+			],
+			[
+				"get",
+				"getSource"
+			],
+			[
+				"typ",
+				"typeOfObj"
+			],
+			[
+				"s",
+				"PUBLIC stopTest() \tvoid"
+			],
+			[
+				"Test",
+				"TestHelper"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"id",
+				"idReport"
+			],
+			[
+				"col",
+				"columnNames"
+			],
+			[
+				"va",
+				"value"
+			],
+			[
+				"f",
+				"feature"
+			],
+			[
+				"set",
+				"setTrack"
+			],
+			[
+				"re",
+				"relationship"
+			],
+			[
+				"key",
+				"keyRel"
+			],
+			[
+				"pa",
+				"parentId"
+			],
+			[
+				"st",
+				"PUBLIC startTest() \tvoid"
+			],
+			[
+				"a",
+				"assertEquals()"
+			],
+			[
+				"var",
+				"varNumber"
+			],
+			[
+				"ADD",
+				"PUBLIC addAll(LIST elements) \tvoid"
+			],
+			[
+				"is",
+				"PUBLIC isBlank(String str) \tBoolean"
+			],
+			[
+				"v",
+				"PUBLIC valueOf(String i) \tInteger"
+			],
+			[
+				"curr",
+				"currentObject"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"Co",
+				"console"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"m",
+				"min-width"
+			],
+			[
+				"si",
+				"PUBLIC size() \tInteger"
+			],
+			[
+				"l",
+				"length"
+			],
+			[
+				"Att",
+				"Attachment"
+			],
+			[
+				"e",
+				"extensions\t(String)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 288.0,
+		"last_filter": "bu",
+		"selected_items":
+		[
+			[
+				"bu",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"bun",
+				"MavensMate: Deploy Resource Bundle..."
+			],
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"Mavens",
+				"MavensMate: Open Project"
+			],
+			[
+				"Mave",
+				"MavensMate: Force Save Current File"
+			],
+			[
+				"Paca",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 416.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/objectView/objectViewController.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/MyOpportunity/MyOpportunity.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/MyOpportunity/MyOpportunity.auradoc",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/CountOfBusinessState/CountOfBusinessState.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/Accounts/AccountsController.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/AppContainerCtrl.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/BaseUtil.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/ClockTriggerTest.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/triggers/OppClockFilling.trigger",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/RuleController.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/RuleCtrl.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/RuleCtrlTest.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/CustomSettingsData/CustomSettingsDataController.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/CustomSettingsView/CustomSettingsView.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/CustomSettingsData/CustomSettingsData.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/CountOfDesitionHistory/CountOfDesitionHistory.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/CountOfDesitionHistory/CountOfDesitionHistoryController.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/CountOfBusinessState/CountOfBusinessStateController.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/OpportunityDynamicCtrl.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/OpportunityDynamicCtrlTest.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/TestHelper.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/CustomSettingsView/CustomSettingsViewController.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/CustomSettingsViewCtrl.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/package.xml",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/MyOpportunityDetailSolutionCtrlTest.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/MyOpportunityCtrlTest.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/ReportViewAuraCtrlTest.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/FinancialCriteriaJunction/FinancialCriteriaJunction.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/BusinessStateJunction/BusinessStateJunction.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/BusinessStateJunction/BusinessStateJunctionController.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/BusinessStateJunction/BusinessStateJunctionHelper.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/FinancialCriteriaJunction/FinancialCriteriaJunctionHelper.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/PSCCriteriaJunction/PSCCriteriaJunction.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/PSCCriteriaJunction/PSCCriteriaJunctionHelper.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/rowInTable/rowInTableController.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/rowInTable/rowInTable.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/Header/HeaderController.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/StrategicInitiatives/StrategicInitiatives.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/StrategicInitiatives/StrategicInitiatives.css",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/Opportunities/OpportunitiesHelper.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/Opportunities/OpportunitiesController.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/StrategicInitiatives/StrategicInitiativesController.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/ObjectCreateUpdateCtrl.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/RecomendationDangerZoneCtrl.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/PSCCriteria.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/MyOpportunityDetailSolutionCtrl.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/FinancialCriteria.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/BusinessState.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/Help/Help.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/Footer/Footer.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/Footer/FooterController.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/MyOpportunityHelper.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/MyStrategicInitiative/MyStrategicInitiative.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/Evaluator.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/ReportViewAuraCtrl.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/MetricsCtrl.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/Dashboard/Dashboard.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/Dashboard/Dashboard.css",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/Dashboard/DashboardController.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/Dashboard/DashboardHelper.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/ObjectCreateUpdate/ObjectCreateUpdateHelper.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/ObjectCreateUpdate/ObjectCreateUpdate.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/ObjectRecordsView/ObjectRecordsViewController.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/ObjectRecordsView/ObjectRecordsViewHelper.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/ObjectRecordsView/ObjectRecordsView.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/MyAccountCtrl.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/CreateAccountPlan/CreateAccountPlan.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/CreateAccountPlan/CreateAccountPlanHelper.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/CreateAccountPlan/CreateAccountPlanController.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/Metrics/MetricsController.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/Metrics/Metrics.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/AppContainer/AppContainer.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/Metrics/MetricsHelper.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/Accounts/Accounts.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/Accounts/AccountsHelper.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/AppContainer/AppContainerController.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/pages/MyOpportunityPage.page",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/OpportunityAxiomExtensions.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/OpportunityAxiomExtensions.cls-meta.xml",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/MyOpportunityApp/MyOpportunityApp.app",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/MyOpportunityApp/MyOpportunityAppController.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/ObjectCreateUpdate/ObjectCreateUpdateController.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/AppContainer/AppContainerHelper.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/BusinessStateScoresTest.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/CounterHelper.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/DecisionHistoryCountTest.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/CalculationCustomPlanMetricsTest.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/LogicFilterOperatorList/LogicFilterOperatorListHelper.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/RuleExtension/RuleExtension.css",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/RuleExtension/RuleExtensionHelper.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/RuleExtension/RuleExtensionController.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/MyAccountDetailCtrlTest.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/MyAccountDetailCtrl.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/LogicFilterList/LogicFilterListController.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/LogicFilterOperatorList/LogicFilterOperatorList.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/LogicFilterOperatorList/LogicFilterOperatorListController.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/LogicFilterOperatorList/LogicFilterOperatorList.css",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/LogicFilterList/LogicFilterList.css",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/LogicFilterList/LogicFilterList.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/RuleExtension/RuleExtension.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/RuleHelper.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/RuleCtrl.cls-meta.xml",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/SearchTrainingController.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/SearchTrainingCtrl.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/SearchTraining/SearchTrainingController.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/SearchTraining/SearchTraining.css",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/SearchTraining/SearchTraining.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/SearchTrainingControllerTest.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/MyOpportunity/MyOpportunityHelper.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/MyStrategicInitiative/MyStrategicInitiativeHelper.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/MyStrategicInitiative/MyStrategicInitiativeController.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/MyOpportunity/MyOpportunityController.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/MyStrategicInitiative/MyStrategicInitiative.css",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/MyOpportunity/MyOpportunity.css",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/MyOpportunity/MyOpportunityRenderer.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/MyOpportunityCtrl.cls",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/resource-bundles/hierarchy.resource/javascript/hierarchy.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/CustomSettingsView/CustomSettingsViewHelper.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/HierarchyComponent/HierarchyComponentHelper.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/HierarchyComponent/HierarchyComponentController.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/HierarchyComponent/HierarchyComponent.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/classes/CustomSettingsViewCtrl.cls-meta.xml",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/MyAccount/MyAccount.css",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/MyAccount/MyAccountHelper.js",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/MyAccount/MyAccount.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/MyAccountDetail/MyAccountDetail.cmp",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/MyAccountDetailBlockTable/MyAccountDetailBlockTable.svg",
+		"/C/Users/Anjey/Documents/AxiomLighyninngDemoOrg/src/aura/MyAccountDetail/MyAccountDetail.auradoc"
+	],
+	"find":
+	{
+		"height": 22.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"getActivities",
+			"currentArea",
+			"getAccouuntInf",
+			"getAccou",
+			"GeneralCriterion",
+			"BusinessStateGap",
+			"getPickList",
+			"rolesMap",
+			"isAlternativeObjEmpty",
+			"oppType",
+			"qualifyStageIndex",
+			"currentStageIndex",
+			"editReco",
+			"PSCCriteria Information",
+			"setDicisionHistoryForOpen",
+			"setDefaultDataForOpen",
+			"objectForEditName",
+			"financialCriteria",
+			"financialCriteriaNew",
+			"setDicisionHistoryForOpen",
+			"getEvaluators",
+			"RelationshipWrapper",
+			"getBioWorksheet",
+			"inputSelectObject",
+			"SI",
+			"getSolutionsSelect",
+			"getSolutionsForRecomend",
+			"getSolutions",
+			"getOpportunityRelative",
+			"getStartDataNew",
+			"item",
+			"slcFavored",
+			"Favored",
+			"editFilterId",
+			"typeFieldSelect",
+			"load",
+			"filterLogicValue",
+			"isDeleteFilter",
+			"replaceLogicToQuery",
+			"BOOLEAN",
+			"clearEdi",
+			"clearFilterForm",
+			"inputSelectFieldsOne",
+			"editFilterId",
+			"parseChartData",
+			"chartRecords",
+			"chartData",
+			"isDateField",
+			"inputSelectFieldsOne",
+			"filters",
+			"fieldFilterForEdit",
+			"inputSelectFields",
+			"save",
+			"descriptionFilter",
+			"Section__c",
+			"Type_View__c",
+			"AxSFD__Section__c",
+			"Label",
+			"label",
+			"fieldFilterForEdit",
+			"v.filters",
+			"fieldFilterForEdit",
+			"alterna",
+			"group",
+			"relation",
+			"child",
+			"selectFields",
+			"Relationsh",
+			"GeneralCriterion",
+			"getRelationshipTree",
+			"goToDetailsPage",
+			"editRecord",
+			"Alterna",
+			"getRelatedOpportunities",
+			"RuleController",
+			"description",
+			"InfoForHeaderNew",
+			"InfoForHeader",
+			"New",
+			"InfoForHeader",
+			"getOpportunity",
+			"sObje",
+			"getSIData",
+			"join",
+			"snapObj",
+			"relatio",
+			"AccountPlanWrapper",
+			"fieldName",
+			"RuleWrapper",
+			"hasMoreRecords",
+			"filterLogicValue",
+			"createFieldSet",
+			"sObjMap",
+			"ObjectsClone",
+			"INITICVES",
+			"getStartDataNew",
+			"getSolutions",
+			"CriterionWrapperFin",
+			"validateRulesFinish",
+			"isValidFin",
+			"InitialSelectWrapper",
+			"SelectOptionWrapper",
+			"selectTypeFinish",
+			"createBioworksheet",
+			"editRecord",
+			"menuName",
+			"objectForEditName",
+			"businessState",
+			"pscCriteria",
+			"setDicisionHistoryForOpen",
+			"objectType",
+			"objectTypeForOpen",
+			"newRecord",
+			"junctionId",
+			"EvaluatorWrapper",
+			"prob",
+			"chartData",
+			"getDataFromServer",
+			"getObjectTables",
+			"getDataFromServer",
+			"objectType",
+			"typeName",
+			"getContactFilter",
+			"setEvaluatorsForOpen",
+			"DEFAULT_URL",
+			"fieldsForOpen",
+			"contextJunction",
+			"setActionRegisterForOpen"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"InfoForHeader",
+			"\"",
+			"AxSFD__AxiomContextualTraining",
+			"crit.value",
+			"Test",
+			"SelectOptionWrapper",
+			"AxSFD__",
+			"id",
+			"AxSFD__",
+			"AxSFD__BIOWorksheet__r",
+			"AxSFD__FinancialCriteria__c",
+			"AxSFD__Impact1__c",
+			"AxSFD__PSCCriteria__c",
+			"AxSFD__CurrentPSCF__c",
+			"AxSFD__BusinessState__c",
+			"AxSFD__BIO_Worksheets__r",
+			"AxSFD__",
+			"",
+			"AxSFD__Opportunity__c",
+			"AxSFD__Opportunity__r",
+			"ReasonFavored",
+			"QualityScore",
+			"PSCArea__c",
+			"OrgSettings__c",
+			"AxSFD__Opportunity__r.AxSFD__Decision_Stage_Status__c",
+			"AxSFD__",
+			"AxSFD__Opportunity__r",
+			"AxSFD__DangerZone__c",
+			"AxSFD__DecisionStages__c",
+			"AxSFD__DangerZones__c",
+			"DangerZones__c",
+			"DecisionStages",
+			"DecisionStageStatus",
+			"AxSFD__DecisionStage__c",
+			"FinancialCriteria",
+			"PSCCriteria",
+			"BusinessState",
+			"BIOWorksheet",
+			"AxSFD__"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 30.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "deploy.sublime-project",
+	"replace":
+	{
+		"height": 40.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 542.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
